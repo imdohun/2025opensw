@@ -1,5 +1,5 @@
-open soft lesson
+# open soft lesson
 
-date : 2025 / 10 / 16
-lesson: folder
-markdown 
+- date : 2025 / 10 / 16
+- lesson: folder
+- markdown 
